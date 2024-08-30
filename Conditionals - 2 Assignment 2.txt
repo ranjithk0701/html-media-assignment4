@@ -1,0 +1,13 @@
+1->
+	dont know
+2->
+	15 15 0
+3->
+	x and y are equal
+4-> 
+	First character
+	Second character 3
+5->
+	0
+6->
+	N
